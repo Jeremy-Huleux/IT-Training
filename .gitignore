@@ -1,0 +1,35 @@
+# Node.js
+front/node_modules/
+
+
+# Angular build output
+front/.angular/
+front/.editorconfig
+front/angular.json
+front/package-lock.json
+front/tsconfig.json
+front/tsconfig.app.json
+front/tsconfig.spec.json
+front/data.json
+front/package.json
+front/server.ts
+front/src/assets/
+
+# IDE settings
+front/.vscode/
+back/.idea/
+
+# Log files
+*.log
+
+# Maven
+back/.mvn/
+back/mvnw
+back/mvnw.cmd
+
+# sensitive
+back/src/main/resources/application.yml
+back/target/classes/application.yml
+
+
+
