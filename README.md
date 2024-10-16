@@ -40,6 +40,14 @@ En tant que **leader de l'équipe front-end**, j’ai assuré que tous les membr
 - Expérience en gestion de projet **agile** avec Trello.
 - Expertise dans l'utilisation de **Git** et **GitHub** pour la collaboration en équipe.
 
+## Conception de la base de données
+
+La **base de données** du projet a été conçue avec soin après de nombreuses réflexions et discussions au sein de l'équipe. En collaboration avec **Sophie Houset**, **Chaïma Demeulemeester** et **Cédric Chimot**, nous avons mis en place une architecture solide et modulaire, afin de garantir une évolutivité et une gestion optimale des données. Nous avons choisi **MySQL** pour sa robustesse et sa flexibilité, ce qui nous a permis de structurer les relations entre les différentes entités du projet de manière efficace.
+
+Chaque aspect de la base de données, des modèles de données aux relations entre les tables, a été soigneusement pensé pour répondre aux exigences fonctionnelles et assurer une fluidité dans les interactions entre le front-end et le back-end. Cette conception réfléchie nous a permis de fournir une solution robuste qui assure une gestion fiable des informations des utilisateurs, tout en facilitant l'intégration future de nouvelles fonctionnalités.
+
+![Capture d'écran](https://github.com/Jeremy-Huleux/IT-Training/blob/master/bdd.png?raw=true)
+
 ## Résultats obtenus
 
 Ce projet nous a permis d'améliorer nos compétences techniques tout en développant notre capacité à travailler en équipe dans un environnement dynamique et exigeant.  
